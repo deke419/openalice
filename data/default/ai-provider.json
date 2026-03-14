@@ -1,0 +1,15 @@
+{
+  "default": "vercel-ai-sdk",
+  "providers": {
+    "claude-code-cli": {
+      "apiKey": "你的 Claude API Key",
+      "model": "claude-3-5-sonnet-20240620",
+      "temperature": 0.1
+    },
+    "vercel-ai-sdk": {
+      "apiKey": "vck_5qO0dZFbar3luO7ih9NgOWd5SzMK4KK3nkd3sm9rUHZblA57tx1rDdgp",
+      "baseUrl": "https://api.vercel.ai/v1",
+      "model": "openai/gpt-5.2"
+    }
+  }
+}
